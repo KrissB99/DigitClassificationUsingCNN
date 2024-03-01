@@ -71,12 +71,12 @@ class VGG19:
         
         self.model.summary()
         
-    def train(self, x_train, y_train, n:int = 10000, bach_size:int = 128, epochs:int = 10, verbose: int = 0):
+    def train(self, n:int = 10000, bach_size:int = 64, epochs:int = 10, verbose: int = 0):
         
         start_time = time.time()  # Start measuring time
         
         self.model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy']) # compile model
-        history = self.model.fit(x_train[:n], y_train[:n], batch_size=128, epochs=10, verbose=0)
+        history = self.model.fit(self.x_train[:n], self.y_train[:n], batch_size=bach_size, epochs=epochs, verbose=verbose)
         
         training_time = time.time() - start_time # Stop measuring time
         
@@ -84,3 +84,6 @@ class VGG19:
         
     def save(self):
         self.model.save(f'trained_models/{self.name}_{datetime.now()}')
+        
+model = VGG19()
+model.train(n=100)
