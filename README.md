@@ -35,9 +35,3 @@ Use command below to install all required Python libraries
 ```
 pip install -r ./requirements.txt
 ```
-
-## Run application
-
-```
-python .\run.py
-```
