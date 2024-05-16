@@ -1,0 +1,97 @@
+------------------------------- AlexNet | 10000 -------------------------------
+
+Epoch 1/10 | loss: 2.09% - accuracy: 19.14%, val_loss: 1.77% - val_accuracy: 25.90%
+Epoch 2/10 | loss: 1.34% - accuracy: 49.14%, val_loss: 0.49% - val_accuracy: 84.95%
+Epoch 3/10 | loss: 0.41% - accuracy: 88.16%, val_loss: 0.18% - val_accuracy: 95.15%
+Epoch 4/10 | loss: 0.20% - accuracy: 94.55%, val_loss: 0.08% - val_accuracy: 97.35%
+Epoch 5/10 | loss: 0.11% - accuracy: 96.75%, val_loss: 0.19% - val_accuracy: 95.85%
+Epoch 6/10 | loss: 0.11% - accuracy: 96.53%, val_loss: 0.06% - val_accuracy: 97.80%
+Epoch 7/10 | loss: 0.07% - accuracy: 97.66%, val_loss: 0.15% - val_accuracy: 95.70%
+Epoch 8/10 | loss: 0.07% - accuracy: 97.74%, val_loss: 0.20% - val_accuracy: 96.30%
+Epoch 9/10 | loss: 0.09% - accuracy: 97.58%, val_loss: 0.16% - val_accuracy: 96.25%
+Epoch 10/10 | loss: 0.07% - accuracy: 97.96%, val_loss: 0.08% - val_accuracy: 97.90%
+Trening ukończony w: 187.22752332687378 sekund
+
+------------------------------- AlexNet | 20000 -------------------------------
+
+Epoch 1/10 | loss: 0.50% - accuracy: 83.81%, val_loss: 0.15% - val_accuracy: 96.17%
+Epoch 2/10 | loss: 0.13% - accuracy: 96.21%, val_loss: 0.08% - val_accuracy: 98.05%
+Epoch 3/10 | loss: 0.10% - accuracy: 97.24%, val_loss: 0.07% - val_accuracy: 98.05%
+Epoch 4/10 | loss: 0.09% - accuracy: 97.70%, val_loss: 0.07% - val_accuracy: 98.15%
+Epoch 5/10 | loss: 0.08% - accuracy: 97.74%, val_loss: 0.07% - val_accuracy: 98.22%
+Epoch 6/10 | loss: 0.07% - accuracy: 98.03%, val_loss: 0.05% - val_accuracy: 98.55%
+Epoch 7/10 | loss: 0.07% - accuracy: 98.23%, val_loss: 0.09% - val_accuracy: 98.50%
+Epoch 8/10 | loss: 0.07% - accuracy: 98.04%, val_loss: 0.05% - val_accuracy: 98.70%
+Epoch 9/10 | loss: 0.07% - accuracy: 98.41%, val_loss: 0.13% - val_accuracy: 97.20%
+Epoch 10/10 | loss: 0.06% - accuracy: 98.50%, val_loss: 0.04% - val_accuracy: 98.88%
+Trening ukończony w: 377.9865539073944 sekund
+
+------------------------------- AlexNet | 30000 -------------------------------
+
+Epoch 1/10 | loss: 0.33% - accuracy: 89.46%, val_loss: 0.09% - val_accuracy: 97.78%
+Epoch 2/10 | loss: 0.11% - accuracy: 96.94%, val_loss: 0.07% - val_accuracy: 98.22%
+Epoch 3/10 | loss: 0.09% - accuracy: 97.55%, val_loss: 0.06% - val_accuracy: 98.32%
+Epoch 4/10 | loss: 0.09% - accuracy: 97.74%, val_loss: 0.07% - val_accuracy: 98.13%
+Epoch 5/10 | loss: 0.08% - accuracy: 97.91%, val_loss: 0.06% - val_accuracy: 98.68%
+Epoch 6/10 | loss: 0.07% - accuracy: 98.20%, val_loss: 0.07% - val_accuracy: 98.50%
+Epoch 7/10 | loss: 0.06% - accuracy: 98.51%, val_loss: 0.06% - val_accuracy: 98.87%
+Epoch 8/10 | loss: 0.06% - accuracy: 98.46%, val_loss: 0.08% - val_accuracy: 98.17%
+Epoch 9/10 | loss: 0.06% - accuracy: 98.52%, val_loss: 0.05% - val_accuracy: 98.75%
+Epoch 10/10 | loss: 0.05% - accuracy: 98.61%, val_loss: 0.06% - val_accuracy: 98.82%
+Trening ukończony w: 541.3683280944824 sekund
+
+------------------------------- AlexNet | 40000 -------------------------------
+
+Epoch 1/10 | loss: 0.39% - accuracy: 87.10%, val_loss: 0.08% - val_accuracy: 97.58%
+Epoch 2/10 | loss: 0.11% - accuracy: 96.87%, val_loss: 0.05% - val_accuracy: 98.76%
+Epoch 3/10 | loss: 0.09% - accuracy: 97.62%, val_loss: 0.07% - val_accuracy: 97.90%
+Epoch 4/10 | loss: 0.08% - accuracy: 97.80%, val_loss: 0.07% - val_accuracy: 97.78%
+Epoch 5/10 | loss: 0.07% - accuracy: 98.11%, val_loss: 0.08% - val_accuracy: 98.08%
+Epoch 6/10 | loss: 0.08% - accuracy: 97.98%, val_loss: 0.08% - val_accuracy: 98.08%
+Epoch 7/10 | loss: 0.08% - accuracy: 98.01%, val_loss: 0.05% - val_accuracy: 98.62%
+Epoch 8/10 | loss: 0.06% - accuracy: 98.40%, val_loss: 0.04% - val_accuracy: 99.09%
+Epoch 9/10 | loss: 0.05% - accuracy: 98.72%, val_loss: 0.04% - val_accuracy: 98.88%
+Epoch 10/10 | loss: 0.06% - accuracy: 98.53%, val_loss: 0.05% - val_accuracy: 98.85%
+Trening ukończony w: 691.3528182506561 sekund
+
+------------------------------- AlexNet | 50000 -------------------------------
+
+Epoch 1/10 | loss: 0.38% - accuracy: 88.45%, val_loss: 0.07% - val_accuracy: 98.25%
+Epoch 2/10 | loss: 0.10% - accuracy: 97.22%, val_loss: 0.06% - val_accuracy: 98.12%
+Epoch 3/10 | loss: 0.08% - accuracy: 97.78%, val_loss: 0.04% - val_accuracy: 98.86%
+Epoch 4/10 | loss: 0.07% - accuracy: 98.12%, val_loss: 0.05% - val_accuracy: 98.75%
+Epoch 5/10 | loss: 0.07% - accuracy: 98.17%, val_loss: 0.04% - val_accuracy: 98.93%
+Epoch 6/10 | loss: 0.06% - accuracy: 98.49%, val_loss: 0.05% - val_accuracy: 98.92%
+Epoch 7/10 | loss: 0.06% - accuracy: 98.52%, val_loss: 0.07% - val_accuracy: 98.41%
+Epoch 8/10 | loss: 0.06% - accuracy: 98.61%, val_loss: 0.04% - val_accuracy: 99.04%
+Epoch 9/10 | loss: 0.06% - accuracy: 98.61%, val_loss: 0.05% - val_accuracy: 98.81%
+Epoch 10/10 | loss: 0.05% - accuracy: 98.60%, val_loss: 0.05% - val_accuracy: 98.90%
+Trening ukończony w: 928.3262624740601 sekund
+
+------------------------------- AlexNet | 60000 -------------------------------
+
+Epoch 1/10 | loss: 0.26% - accuracy: 91.86%, val_loss: 0.06% - val_accuracy: 98.37%
+Epoch 2/10 | loss: 0.09% - accuracy: 97.63%, val_loss: 0.07% - val_accuracy: 98.13%
+Epoch 3/10 | loss: 0.07% - accuracy: 98.15%, val_loss: 0.06% - val_accuracy: 98.58%
+Epoch 4/10 | loss: 0.07% - accuracy: 98.11%, val_loss: 0.04% - val_accuracy: 98.99%
+Epoch 5/10 | loss: 0.06% - accuracy: 98.46%, val_loss: 0.07% - val_accuracy: 98.46%
+Epoch 6/10 | loss: 0.05% - accuracy: 98.83%, val_loss: 0.05% - val_accuracy: 98.68%
+Epoch 7/10 | loss: 0.06% - accuracy: 98.50%, val_loss: 0.06% - val_accuracy: 98.54%
+Epoch 8/10 | loss: 0.05% - accuracy: 98.80%, val_loss: 0.05% - val_accuracy: 98.88%
+Epoch 9/10 | loss: 0.05% - accuracy: 98.80%, val_loss: 0.03% - val_accuracy: 99.22%
+Epoch 10/10 | loss: 0.05% - accuracy: 98.83%, val_loss: 0.04% - val_accuracy: 99.05%
+Trening ukończony w: 1032.5237972736359 sekund
+
+------------------------------- AlexNet | 70000 -------------------------------
+
+Epoch 1/10 | loss: 0.63% - accuracy: 77.15%, val_loss: 0.08% - val_accuracy: 97.89%
+Epoch 2/10 | loss: 0.09% - accuracy: 97.70%, val_loss: 0.09% - val_accuracy: 98.01%
+Epoch 3/10 | loss: 0.07% - accuracy: 98.14%, val_loss: 0.05% - val_accuracy: 98.64%
+Epoch 4/10 | loss: 0.07% - accuracy: 98.19%, val_loss: 0.06% - val_accuracy: 98.82%
+Epoch 5/10 | loss: 0.06% - accuracy: 98.38%, val_loss: 0.04% - val_accuracy: 99.11%
+Epoch 6/10 | loss: 0.05% - accuracy: 98.64%, val_loss: 0.04% - val_accuracy: 98.96%
+Epoch 7/10 | loss: 0.06% - accuracy: 98.49%, val_loss: 0.04% - val_accuracy: 99.09%
+Epoch 8/10 | loss: 0.05% - accuracy: 98.74%, val_loss: 0.05% - val_accuracy: 98.89%
+Epoch 9/10 | loss: 0.05% - accuracy: 98.86%, val_loss: 0.05% - val_accuracy: 98.89%
+Epoch 10/10 | loss: 0.05% - accuracy: 98.64%, val_loss: 0.05% - val_accuracy: 98.95%
+Trening ukończony w: 1193.343844652176 sekund

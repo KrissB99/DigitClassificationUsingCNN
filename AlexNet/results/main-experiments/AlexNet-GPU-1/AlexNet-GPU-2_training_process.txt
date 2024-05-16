@@ -1,0 +1,21 @@
+
+----------------------------------------  Trening modelu AlexNet/GPU/1  ---------------------------------------- 
+
+Epoch 1/15 | loss: 0.52% - accuracy: 83.78%, val_loss: 0.10% - val_accuracy: 96.91%
+Epoch 2/15 | loss: 0.14% - accuracy: 95.96%, val_loss: 0.05% - val_accuracy: 98.35%
+Epoch 3/15 | loss: 0.11% - accuracy: 96.97%, val_loss: 0.04% - val_accuracy: 98.71%
+Epoch 4/15 | loss: 0.09% - accuracy: 97.57%, val_loss: 0.05% - val_accuracy: 98.65%
+Epoch 5/15 | loss: 0.09% - accuracy: 97.80%, val_loss: 0.04% - val_accuracy: 98.83%
+Epoch 6/15 | loss: 0.08% - accuracy: 97.79%, val_loss: 0.05% - val_accuracy: 98.68%
+Epoch 7/15 | loss: 0.06% - accuracy: 98.28%, val_loss: 0.04% - val_accuracy: 99.01%
+Epoch 8/15 | loss: 0.07% - accuracy: 98.15%, val_loss: 0.05% - val_accuracy: 99.03%
+Epoch 9/15 | loss: 0.06% - accuracy: 98.34%, val_loss: 0.03% - val_accuracy: 99.14%
+Epoch 10/15 | loss: 0.06% - accuracy: 98.43%, val_loss: 0.04% - val_accuracy: 98.91%
+Epoch 11/15 | loss: 0.05% - accuracy: 98.69%, val_loss: 0.04% - val_accuracy: 98.82%
+Epoch 12/15 | loss: 0.06% - accuracy: 98.57%, val_loss: 0.02% - val_accuracy: 99.57%
+Epoch 13/15 | loss: 0.06% - accuracy: 98.58%, val_loss: 0.03% - val_accuracy: 99.21%
+Epoch 14/15 | loss: 0.05% - accuracy: 98.74%, val_loss: 0.05% - val_accuracy: 98.95%
+Epoch 15/15 | loss: 0.06% - accuracy: 98.55%, val_loss: 0.05% - val_accuracy: 98.86%
+Trening ukończony w: 1211.5298173427582 sekund
+
+Klasyfikacja ukończona w: 8.505058288574219 sekund

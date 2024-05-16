@@ -1,0 +1,115 @@
+----------------------------------------  Trening modelu VGG19/1  ---------------------------------------- 
+
+Epoch 1/10
+625/625 [==============================] - 422s 673ms/step - loss: 0.5280 - accuracy: 0.8414 - val_loss: 0.2113 - val_accuracy: 0.9372
+Epoch 2/10
+625/625 [==============================] - 430s 688ms/step - loss: 0.2187 - accuracy: 0.9347 - val_loss: 0.1539 - val_accuracy: 0.9502
+Epoch 3/10
+625/625 [==============================] - 435s 697ms/step - loss: 0.1784 - accuracy: 0.9442 - val_loss: 0.1291 - val_accuracy: 0.9583
+Epoch 4/10
+625/625 [==============================] - 454s 726ms/step - loss: 0.1579 - accuracy: 0.9501 - val_loss: 0.1210 - val_accuracy: 0.9618
+Epoch 5/10
+625/625 [==============================] - 448s 717ms/step - loss: 0.1453 - accuracy: 0.9539 - val_loss: 0.1199 - val_accuracy: 0.9636
+Epoch 6/10
+625/625 [==============================] - 586s 938ms/step - loss: 0.1365 - accuracy: 0.9564 - val_loss: 0.1142 - val_accuracy: 0.9618
+Epoch 7/10
+625/625 [==============================] - 578s 925ms/step - loss: 0.1268 - accuracy: 0.9587 - val_loss: 0.0957 - val_accuracy: 0.9703
+Epoch 8/10
+625/625 [==============================] - 577s 924ms/step - loss: 0.1233 - accuracy: 0.9610 - val_loss: 0.0938 - val_accuracy: 0.9716
+Epoch 9/10
+625/625 [==============================] - 578s 925ms/step - loss: 0.1191 - accuracy: 0.9615 - val_loss: 0.0917 - val_accuracy: 0.9703
+Epoch 10/10
+625/625 [==============================] - 508s 813ms/step - loss: 0.1137 - accuracy: 0.9639 - val_loss: 0.0979 - val_accuracy: 0.9683
+Trening ukończony w przeciągu: 5016.10 sekund
+
+----------------------------------------  Czas klasyfikacji modelu VGG19/1  ---------------------------------------- 
+
+313/313 [==============================] - 105s 334ms/step
+Prediction completed in: 105.61 seconds
+
+----------------------------------------  Trening modelu VGG19/2  ---------------------------------------- 
+
+Epoch 1/10
+625/625 [==============================] - 465s 741ms/step - loss: 0.5045 - accuracy: 0.8459 - val_loss: 0.2084 - val_accuracy: 0.9399
+Epoch 2/10
+625/625 [==============================] - 457s 732ms/step - loss: 0.2145 - accuracy: 0.9341 - val_loss: 0.1541 - val_accuracy: 0.9532
+Epoch 3/10
+625/625 [==============================] - 462s 739ms/step - loss: 0.1739 - accuracy: 0.9459 - val_loss: 0.1417 - val_accuracy: 0.9546
+Epoch 4/10
+625/625 [==============================] - 457s 731ms/step - loss: 0.1555 - accuracy: 0.9506 - val_loss: 0.1266 - val_accuracy: 0.9606
+Epoch 5/10
+625/625 [==============================] - 436s 698ms/step - loss: 0.1443 - accuracy: 0.9532 - val_loss: 0.1224 - val_accuracy: 0.9613
+Epoch 6/10
+625/625 [==============================] - 434s 694ms/step - loss: 0.1338 - accuracy: 0.9563 - val_loss: 0.1158 - val_accuracy: 0.9635
+Epoch 7/10
+625/625 [==============================] - 525s 840ms/step - loss: 0.1266 - accuracy: 0.9591 - val_loss: 0.1072 - val_accuracy: 0.9661
+Epoch 8/10
+625/625 [==============================] - 436s 697ms/step - loss: 0.1205 - accuracy: 0.9607 - val_loss: 0.1064 - val_accuracy: 0.9675
+Epoch 9/10
+625/625 [==============================] - 435s 695ms/step - loss: 0.1132 - accuracy: 0.9632 - val_loss: 0.1041 - val_accuracy: 0.9671
+Epoch 10/10
+625/625 [==============================] - 436s 698ms/step - loss: 0.1106 - accuracy: 0.9636 - val_loss: 0.1005 - val_accuracy: 0.9687
+Trening ukończony w przeciągu: 4541.95 sekund
+
+----------------------------------------  Czas klasyfikacji modelu VGG19/2  ---------------------------------------- 
+
+313/313 [==============================] - 91s 289ms/step
+Prediction completed in: 91.00 seconds
+
+----------------------------------------  Trening modelu VGG19/3  ---------------------------------------- 
+
+Epoch 1/10
+625/625 [==============================] - 439s 700ms/step - loss: 0.5334 - accuracy: 0.8395 - val_loss: 0.2082 - val_accuracy: 0.9387
+Epoch 2/10
+625/625 [==============================] - 435s 696ms/step - loss: 0.2198 - accuracy: 0.9327 - val_loss: 0.1564 - val_accuracy: 0.9515
+Epoch 3/10
+625/625 [==============================] - 448s 717ms/step - loss: 0.1755 - accuracy: 0.9455 - val_loss: 0.1313 - val_accuracy: 0.9591
+Epoch 4/10
+625/625 [==============================] - 438s 701ms/step - loss: 0.1569 - accuracy: 0.9507 - val_loss: 0.1200 - val_accuracy: 0.9612
+Epoch 5/10
+625/625 [==============================] - 441s 705ms/step - loss: 0.1443 - accuracy: 0.9543 - val_loss: 0.1096 - val_accuracy: 0.9650
+Epoch 6/10
+625/625 [==============================] - 441s 706ms/step - loss: 0.1361 - accuracy: 0.9571 - val_loss: 0.1096 - val_accuracy: 0.9648
+Epoch 7/10
+625/625 [==============================] - 440s 703ms/step - loss: 0.1255 - accuracy: 0.9596 - val_loss: 0.1076 - val_accuracy: 0.9662
+Epoch 8/10
+625/625 [==============================] - 440s 704ms/step - loss: 0.1234 - accuracy: 0.9607 - val_loss: 0.0972 - val_accuracy: 0.9696
+Epoch 9/10
+625/625 [==============================] - 447s 715ms/step - loss: 0.1189 - accuracy: 0.9626 - val_loss: 0.1027 - val_accuracy: 0.9667
+Epoch 10/10
+625/625 [==============================] - 442s 707ms/step - loss: 0.1119 - accuracy: 0.9639 - val_loss: 0.0991 - val_accuracy: 0.9677
+Trening ukończony w przeciągu: 4409.46 sekund
+
+ ----------------------------------------  Czas klasyfikacji modelu VGG19/3  ---------------------------------------- 
+
+313/313 [==============================] - 92s 293ms/step
+Prediction completed in: 92.18 seconds
+
+----------------------------------------  Trening modelu VGG19/4  ---------------------------------------- 
+
+Epoch 1/10
+625/625 [==============================] - 443s 708ms/step - loss: 0.5422 - accuracy: 0.8369 - val_loss: 0.2087 - val_accuracy: 0.9394
+Epoch 2/10
+625/625 [==============================] - 438s 701ms/step - loss: 0.2204 - accuracy: 0.9332 - val_loss: 0.1524 - val_accuracy: 0.9543
+Epoch 3/10
+625/625 [==============================] - 440s 705ms/step - loss: 0.1778 - accuracy: 0.9445 - val_loss: 0.1242 - val_accuracy: 0.9602
+Epoch 4/10
+625/625 [==============================] - 439s 703ms/step - loss: 0.1579 - accuracy: 0.9504 - val_loss: 0.1157 - val_accuracy: 0.9638
+Epoch 5/10
+625/625 [==============================] - 440s 704ms/step - loss: 0.1443 - accuracy: 0.9543 - val_loss: 0.1078 - val_accuracy: 0.9659
+Epoch 6/10
+625/625 [==============================] - 445s 712ms/step - loss: 0.1326 - accuracy: 0.9570 - val_loss: 0.1025 - val_accuracy: 0.9669
+Epoch 7/10
+625/625 [==============================] - 442s 708ms/step - loss: 0.1294 - accuracy: 0.9583 - val_loss: 0.1010 - val_accuracy: 0.9676
+Epoch 8/10
+625/625 [==============================] - 440s 705ms/step - loss: 0.1237 - accuracy: 0.9596 - val_loss: 0.0973 - val_accuracy: 0.9671
+Epoch 9/10
+625/625 [==============================] - 439s 702ms/step - loss: 0.1136 - accuracy: 0.9626 - val_loss: 0.0936 - val_accuracy: 0.9682
+Epoch 10/10
+625/625 [==============================] - 440s 705ms/step - loss: 0.1138 - accuracy: 0.9622 - val_loss: 0.0973 - val_accuracy: 0.9680
+Trening ukończony w przeciągu: 4407.30 sekund
+
+ ----------------------------------------  Czas klasyfikacji modelu VGG19/4  ---------------------------------------- 
+
+313/313 [==============================] - 94s 299ms/step
+Prediction completed in: 94.21 seconds

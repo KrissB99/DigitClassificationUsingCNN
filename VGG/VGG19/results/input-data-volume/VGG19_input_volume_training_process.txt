@@ -1,0 +1,154 @@
+-----------------------------------------  Ilość danych wejściowych: 10000, model: VGG19  -----------------------------------------
+Epoch 1/10
+125/125 [==============================] - 3s 17ms/step - loss: 1.1918 - accuracy: 0.6315 - val_loss: 0.6067 - val_accuracy: 0.8420
+Epoch 2/10
+125/125 [==============================] - 2s 14ms/step - loss: 0.5567 - accuracy: 0.8386 - val_loss: 0.3809 - val_accuracy: 0.8965
+Epoch 3/10
+125/125 [==============================] - 2s 14ms/step - loss: 0.3946 - accuracy: 0.8867 - val_loss: 0.2971 - val_accuracy: 0.9150
+Epoch 4/10
+125/125 [==============================] - 2s 14ms/step - loss: 0.3215 - accuracy: 0.9069 - val_loss: 0.2495 - val_accuracy: 0.9280
+Epoch 5/10
+125/125 [==============================] - 2s 14ms/step - loss: 0.2765 - accuracy: 0.9164 - val_loss: 0.2177 - val_accuracy: 0.9355
+Epoch 6/10
+125/125 [==============================] - 2s 14ms/step - loss: 0.2474 - accuracy: 0.9249 - val_loss: 0.1979 - val_accuracy: 0.9440
+Epoch 7/10
+125/125 [==============================] - 2s 14ms/step - loss: 0.2168 - accuracy: 0.9361 - val_loss: 0.1808 - val_accuracy: 0.9470
+Epoch 8/10
+125/125 [==============================] - 2s 14ms/step - loss: 0.2105 - accuracy: 0.9327 - val_loss: 0.1652 - val_accuracy: 0.9505
+Epoch 9/10
+125/125 [==============================] - 2s 14ms/step - loss: 0.1919 - accuracy: 0.9435 - val_loss: 0.1685 - val_accuracy: 0.9505
+Epoch 10/10
+125/125 [==============================] - 2s 14ms/step - loss: 0.1817 - accuracy: 0.9455 - val_loss: 0.1742 - val_accuracy: 0.9435
+Trening ukończony w przeciągu: 19.37 sekund
+-----------------------------------------  Ilość danych wejściowych: 20000, model: VGG19  -----------------------------------------
+Epoch 1/10
+250/250 [==============================] - 5s 16ms/step - loss: 0.8369 - accuracy: 0.7433 - val_loss: 0.3557 - val_accuracy: 0.9078
+Epoch 2/10
+250/250 [==============================] - 4s 14ms/step - loss: 0.3446 - accuracy: 0.9009 - val_loss: 0.2309 - val_accuracy: 0.9377
+Epoch 3/10
+250/250 [==============================] - 4s 14ms/step - loss: 0.2559 - accuracy: 0.9214 - val_loss: 0.1828 - val_accuracy: 0.9473
+Epoch 4/10
+250/250 [==============================] - 4s 14ms/step - loss: 0.2173 - accuracy: 0.9352 - val_loss: 0.1730 - val_accuracy: 0.9475
+Epoch 5/10
+250/250 [==============================] - 4s 14ms/step - loss: 0.1882 - accuracy: 0.9416 - val_loss: 0.1549 - val_accuracy: 0.9542
+Epoch 6/10
+250/250 [==============================] - 4s 14ms/step - loss: 0.1744 - accuracy: 0.9451 - val_loss: 0.1468 - val_accuracy: 0.9540
+Epoch 7/10
+250/250 [==============================] - 4s 14ms/step - loss: 0.1650 - accuracy: 0.9489 - val_loss: 0.1305 - val_accuracy: 0.9597
+Epoch 8/10
+250/250 [==============================] - 4s 14ms/step - loss: 0.1522 - accuracy: 0.9503 - val_loss: 0.1290 - val_accuracy: 0.9592
+Epoch 9/10
+250/250 [==============================] - 4s 15ms/step - loss: 0.1445 - accuracy: 0.9563 - val_loss: 0.1288 - val_accuracy: 0.9588
+Epoch 10/10
+250/250 [==============================] - 4s 15ms/step - loss: 0.1401 - accuracy: 0.9548 - val_loss: 0.1211 - val_accuracy: 0.9650
+Trening ukończony w przeciągu: 37.66 sekund
+-----------------------------------------  Ilość danych wejściowych: 30000, model: VGG19  -----------------------------------------
+Epoch 1/10
+375/375 [==============================] - 7s 15ms/step - loss: 0.6895 - accuracy: 0.7962 - val_loss: 0.2653 - val_accuracy: 0.9242
+Epoch 2/10
+375/375 [==============================] - 5s 14ms/step - loss: 0.2761 - accuracy: 0.9177 - val_loss: 0.1944 - val_accuracy: 0.9388
+Epoch 3/10
+375/375 [==============================] - 5s 14ms/step - loss: 0.2150 - accuracy: 0.9349 - val_loss: 0.1529 - val_accuracy: 0.9530
+Epoch 4/10
+375/375 [==============================] - 5s 15ms/step - loss: 0.1848 - accuracy: 0.9429 - val_loss: 0.1352 - val_accuracy: 0.9568
+Epoch 5/10
+375/375 [==============================] - 5s 15ms/step - loss: 0.1655 - accuracy: 0.9494 - val_loss: 0.1289 - val_accuracy: 0.9587
+Epoch 6/10
+375/375 [==============================] - 6s 15ms/step - loss: 0.1572 - accuracy: 0.9524 - val_loss: 0.1168 - val_accuracy: 0.9600
+Epoch 7/10
+375/375 [==============================] - 6s 15ms/step - loss: 0.1461 - accuracy: 0.9538 - val_loss: 0.1210 - val_accuracy: 0.9600
+Epoch 8/10
+375/375 [==============================] - 6s 15ms/step - loss: 0.1392 - accuracy: 0.9548 - val_loss: 0.1212 - val_accuracy: 0.9597
+Epoch 9/10
+375/375 [==============================] - 6s 15ms/step - loss: 0.1321 - accuracy: 0.9576 - val_loss: 0.1133 - val_accuracy: 0.9617
+Epoch 10/10
+375/375 [==============================] - 6s 15ms/step - loss: 0.1296 - accuracy: 0.9579 - val_loss: 0.1060 - val_accuracy: 0.9672
+Trening ukończony w przeciągu: 56.82 sekund
+-----------------------------------------  Ilość danych wejściowych: 40000, model: VGG19  -----------------------------------------
+Epoch 1/10
+500/500 [==============================] - 9s 16ms/step - loss: 0.5929 - accuracy: 0.8210 - val_loss: 0.2356 - val_accuracy: 0.9341
+Epoch 2/10
+500/500 [==============================] - 7s 15ms/step - loss: 0.2393 - accuracy: 0.9268 - val_loss: 0.1577 - val_accuracy: 0.9528
+Epoch 3/10
+500/500 [==============================] - 7s 15ms/step - loss: 0.1878 - accuracy: 0.9423 - val_loss: 0.1339 - val_accuracy: 0.9594
+Epoch 4/10
+500/500 [==============================] - 7s 15ms/step - loss: 0.1658 - accuracy: 0.9478 - val_loss: 0.1193 - val_accuracy: 0.9626
+Epoch 5/10
+500/500 [==============================] - 7s 15ms/step - loss: 0.1511 - accuracy: 0.9516 - val_loss: 0.1069 - val_accuracy: 0.9672
+Epoch 6/10
+500/500 [==============================] - 7s 15ms/step - loss: 0.1385 - accuracy: 0.9563 - val_loss: 0.1153 - val_accuracy: 0.9620
+Epoch 7/10
+500/500 [==============================] - 7s 15ms/step - loss: 0.1343 - accuracy: 0.9572 - val_loss: 0.0990 - val_accuracy: 0.9681
+Epoch 8/10
+500/500 [==============================] - 7s 15ms/step - loss: 0.1243 - accuracy: 0.9598 - val_loss: 0.0974 - val_accuracy: 0.9693
+Epoch 9/10
+500/500 [==============================] - 7s 15ms/step - loss: 0.1223 - accuracy: 0.9611 - val_loss: 0.0975 - val_accuracy: 0.9691
+Epoch 10/10
+500/500 [==============================] - 7s 15ms/step - loss: 0.1148 - accuracy: 0.9620 - val_loss: 0.0961 - val_accuracy: 0.9719
+Trening ukończony w przeciągu: 75.37 sekund
+-----------------------------------------  Ilość danych wejściowych: 50000, model: VGG19  -----------------------------------------
+Epoch 1/10
+625/625 [==============================] - 11s 16ms/step - loss: 0.5401 - accuracy: 0.8375 - val_loss: 0.2052 - val_accuracy: 0.9400
+Epoch 2/10
+625/625 [==============================] - 9s 15ms/step - loss: 0.2222 - accuracy: 0.9326 - val_loss: 0.1512 - val_accuracy: 0.9542
+Epoch 3/10
+625/625 [==============================] - 9s 15ms/step - loss: 0.1761 - accuracy: 0.9443 - val_loss: 0.1250 - val_accuracy: 0.9599
+Epoch 4/10
+625/625 [==============================] - 9s 15ms/step - loss: 0.1559 - accuracy: 0.9504 - val_loss: 0.1120 - val_accuracy: 0.9636
+Epoch 5/10
+625/625 [==============================] - 9s 15ms/step - loss: 0.1437 - accuracy: 0.9545 - val_loss: 0.1080 - val_accuracy: 0.9652
+Epoch 6/10
+625/625 [==============================] - 9s 15ms/step - loss: 0.1333 - accuracy: 0.9585 - val_loss: 0.1078 - val_accuracy: 0.9633
+Epoch 7/10
+625/625 [==============================] - 9s 15ms/step - loss: 0.1281 - accuracy: 0.9591 - val_loss: 0.1007 - val_accuracy: 0.9662
+Epoch 8/10
+625/625 [==============================] - 9s 15ms/step - loss: 0.1188 - accuracy: 0.9618 - val_loss: 0.0936 - val_accuracy: 0.9692
+Epoch 9/10
+625/625 [==============================] - 9s 15ms/step - loss: 0.1142 - accuracy: 0.9629 - val_loss: 0.0939 - val_accuracy: 0.9680
+Epoch 10/10
+625/625 [==============================] - 9s 15ms/step - loss: 0.1092 - accuracy: 0.9647 - val_loss: 0.0934 - val_accuracy: 0.9693
+Trening ukończony w przeciągu: 95.02 sekund
+-----------------------------------------  Ilość danych wejściowych: 60000, model: VGG19  -----------------------------------------
+Epoch 1/10
+750/750 [==============================] - 13s 16ms/step - loss: 0.4848 - accuracy: 0.8551 - val_loss: 0.1937 - val_accuracy: 0.9395
+Epoch 2/10
+750/750 [==============================] - 11s 15ms/step - loss: 0.2045 - accuracy: 0.9375 - val_loss: 0.1449 - val_accuracy: 0.9540
+Epoch 3/10
+750/750 [==============================] - 11s 15ms/step - loss: 0.1670 - accuracy: 0.9478 - val_loss: 0.1283 - val_accuracy: 0.9582
+Epoch 4/10
+750/750 [==============================] - 11s 15ms/step - loss: 0.1470 - accuracy: 0.9529 - val_loss: 0.1168 - val_accuracy: 0.9624
+Epoch 5/10
+750/750 [==============================] - 11s 15ms/step - loss: 0.1351 - accuracy: 0.9571 - val_loss: 0.1225 - val_accuracy: 0.9596
+Epoch 6/10
+750/750 [==============================] - 11s 15ms/step - loss: 0.1284 - accuracy: 0.9580 - val_loss: 0.1063 - val_accuracy: 0.9659
+Epoch 7/10
+750/750 [==============================] - 11s 15ms/step - loss: 0.1221 - accuracy: 0.9607 - val_loss: 0.1061 - val_accuracy: 0.9657
+Epoch 8/10
+750/750 [==============================] - 11s 15ms/step - loss: 0.1142 - accuracy: 0.9631 - val_loss: 0.1011 - val_accuracy: 0.9693
+Epoch 9/10
+750/750 [==============================] - 11s 15ms/step - loss: 0.1119 - accuracy: 0.9634 - val_loss: 0.1021 - val_accuracy: 0.9668
+Epoch 10/10
+750/750 [==============================] - 11s 15ms/step - loss: 0.1074 - accuracy: 0.9651 - val_loss: 0.1077 - val_accuracy: 0.9652
+Trening ukończony w przeciągu: 113.53 sekund
+-----------------------------------------  Ilość danych wejściowych: 70000, model: VGG19  -----------------------------------------
+Epoch 1/10
+875/875 [==============================] - 14s 15ms/step - loss: 0.4641 - accuracy: 0.8598 - val_loss: 0.1873 - val_accuracy: 0.9426
+Epoch 2/10
+875/875 [==============================] - 13s 15ms/step - loss: 0.1949 - accuracy: 0.9391 - val_loss: 0.1425 - val_accuracy: 0.9570
+Epoch 3/10
+875/875 [==============================] - 13s 15ms/step - loss: 0.1598 - accuracy: 0.9496 - val_loss: 0.1229 - val_accuracy: 0.9604
+Epoch 4/10
+875/875 [==============================] - 13s 15ms/step - loss: 0.1439 - accuracy: 0.9548 - val_loss: 0.1255 - val_accuracy: 0.9601
+Epoch 5/10
+875/875 [==============================] - 13s 15ms/step - loss: 0.1326 - accuracy: 0.9579 - val_loss: 0.1092 - val_accuracy: 0.9659
+Epoch 6/10
+875/875 [==============================] - 13s 15ms/step - loss: 0.1260 - accuracy: 0.9604 - val_loss: 0.1077 - val_accuracy: 0.9654
+Epoch 7/10
+875/875 [==============================] - 13s 15ms/step - loss: 0.1186 - accuracy: 0.9621 - val_loss: 0.1120 - val_accuracy: 0.9636
+Epoch 8/10
+875/875 [==============================] - 13s 15ms/step - loss: 0.1150 - accuracy: 0.9627 - val_loss: 0.0933 - val_accuracy: 0.9707
+Epoch 9/10
+875/875 [==============================] - 13s 15ms/step - loss: 0.1087 - accuracy: 0.9644 - val_loss: 0.0910 - val_accuracy: 0.9716
+Epoch 10/10
+875/875 [==============================] - 13s 15ms/step - loss: 0.1053 - accuracy: 0.9660 - val_loss: 0.0881 - val_accuracy: 0.9728
+Trening ukończony w przeciągu: 131.77 sekund
