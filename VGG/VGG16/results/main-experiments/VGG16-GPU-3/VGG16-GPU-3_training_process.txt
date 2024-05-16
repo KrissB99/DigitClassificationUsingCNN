@@ -1,0 +1,25 @@
+----------------------------------------  Trening modelu VGG16/3  ---------------------------------------- 
+Epoch 1/10
+625/625 [==============================] - 9s 13ms/step - loss: 0.5479 - accuracy: 0.8311 - val_loss: 0.2332 - val_accuracy: 0.9315
+Epoch 2/10
+625/625 [==============================] - 8s 12ms/step - loss: 0.2426 - accuracy: 0.9244 - val_loss: 0.1645 - val_accuracy: 0.9499
+Epoch 3/10
+625/625 [==============================] - 8s 12ms/step - loss: 0.1916 - accuracy: 0.9393 - val_loss: 0.1422 - val_accuracy: 0.9566
+Epoch 4/10
+625/625 [==============================] - 8s 12ms/step - loss: 0.1669 - accuracy: 0.9469 - val_loss: 0.1204 - val_accuracy: 0.9623
+Epoch 5/10
+625/625 [==============================] - 8s 12ms/step - loss: 0.1523 - accuracy: 0.9520 - val_loss: 0.1175 - val_accuracy: 0.9630
+Epoch 6/10
+625/625 [==============================] - 8s 12ms/step - loss: 0.1403 - accuracy: 0.9556 - val_loss: 0.1124 - val_accuracy: 0.9626
+Epoch 7/10
+625/625 [==============================] - 8s 12ms/step - loss: 0.1335 - accuracy: 0.9567 - val_loss: 0.1046 - val_accuracy: 0.9663
+Epoch 8/10
+625/625 [==============================] - 8s 12ms/step - loss: 0.1266 - accuracy: 0.9590 - val_loss: 0.1044 - val_accuracy: 0.9662
+Epoch 9/10
+625/625 [==============================] - 8s 12ms/step - loss: 0.1173 - accuracy: 0.9616 - val_loss: 0.0995 - val_accuracy: 0.9682
+Epoch 10/10
+625/625 [==============================] - 8s 12ms/step - loss: 0.1160 - accuracy: 0.9629 - val_loss: 0.0993 - val_accuracy: 0.9686
+Trening ukończony w przeciągu: 78.55 sekund
+
+313/313 [==============================] - 2s 7ms/step
+Prediction completed in: 2.43 seconds
